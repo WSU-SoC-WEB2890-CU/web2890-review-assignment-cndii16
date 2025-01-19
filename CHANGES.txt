@@ -1,1 +1,12 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+- Changed the colors to a pallete to my liking (i wanted a pink pallete to match my favorite colors)
+- Made all of the little vectors, the little purple puppy (I wanted something to personalize the vectors to something I preferred.)
+- Added specific classes in the typography to help adjust coloring (it made better contrast against backgrouds and further emphasized my vision)
+- Adjusted Font sizing in the classes (better contrast for heading text)
+- Adjust the Navbar so it connects to the existing sections of the page (made for easy navgiation for editing)
+- Got rid of the companies sections (jsut didn't seem practical in what I wanted)
+- replaced the portfolio images with images I specifically took instead of generating (i just awnted something more personal)
+- adjusted hover states colors to contrast better aginst the background
+- added icons to the headers for a little pizazz ( i thought it made it look cuter)
+- made the waves sharper for a "dramatic" appearance

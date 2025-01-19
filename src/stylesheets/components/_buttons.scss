@@ -9,10 +9,11 @@
   border: 0.1rem solid rgba($white, 0.6);
   background-color: $white;
   display: block;
+  color: $light-purple;
 
   span {
     position: absolute;
-    background-color: $primary;
+    background-color: $purple;
     width: 2.5rem;
     height: 2.5rem;
     top: 50%;
@@ -33,7 +34,7 @@
     color: $white;
 
     span {
-      background-color: rgba($orange, 1.0);
+      background-color: rgba($white, 1.0);
     }
   }
 }

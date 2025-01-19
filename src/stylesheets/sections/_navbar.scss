@@ -8,17 +8,22 @@
     padding: 0 0.7rem;
 
     a {
-      color: $white;
+      color: $tertiary;
       padding: 0 0.7rem;
       text-transform: capitalize;
       font-weight: 600;
-
+      &.active{
+        color: $fourth;
+      }
     }
 
     &:hover {
-      color: $white;
+      color: $primary;
     }
-
   }
-
+  button{
+    background-color: $light-purple;
+    color:white;
+  }
 }
+
