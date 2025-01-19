@@ -12,7 +12,7 @@
 
   &__icon {
     width: 2rem;
-    stroke: $orange;
+    stroke: $white;
     padding-top: 0.5rem;
 
     @include media-breakpoint-up(sm) {
@@ -25,7 +25,7 @@
     font-weight: 600;
 
     &--title {
-      color: $white;
+      color: $tertiary;
       text-decoration: none;
       font-size: 1rem;
 
@@ -52,8 +52,9 @@
 
 // STYLE THE SOCIAL MEDIA CONTENT 
 .footer-sm {
+  background-color: $secondary;
   a {
-    color: $white;
+    color: $purple;
 
     i {
       font-size: 1rem;
@@ -81,7 +82,7 @@
     text-decoration: none;
 
     a {
-      color: $white;
+      color: $tertiary;
       text-decoration: none;
 
       &:hover {
@@ -93,10 +94,10 @@
 
 // STYLE THE COPYRIGHT  CONTENT 
 .footer-bottom {
-  background-color: $black;
+  background-color: $light-purple;
 
   &__copyright {
-    color: $gray-600;
+    color: $primary;
     font-weight: 400;
 
     a {
@@ -122,7 +123,7 @@
   z-index: 9999;
 
   i {
-    color: $white;
+    color: $tertiary;
     font-size: 1rem;
     @include absoluteCenter;
   }

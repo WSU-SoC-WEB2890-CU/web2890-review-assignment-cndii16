@@ -3,6 +3,7 @@
 
 .portfolio {
   padding: 4rem 0;
+  background-color: $purple;
 
   button {
     text-transform: capitalize;
@@ -34,7 +35,7 @@
 
     .caption {
       text-align: center;
-      color: $white;
+      color: $tertiary;
       @include absoluteCenter;
 
       h4 {
